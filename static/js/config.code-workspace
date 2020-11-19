@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\JS HW"
+		},
+		{
+			"path": "..\\..\\..\\..\\gt-atl-data-pt-06-2020-u-c\\DataViz-Content\\14-Intro-To-JavaScript"
+		},
+		{
+			"path": "..\\..\\..\\..\\gt-atl-data-pt-06-2020-u-c\\DataViz-Content\\15-Interactive-Visualizations-and-Dashboards"
+		},
+		{
+			"path": "..\\..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desktop"
+	}
+}
